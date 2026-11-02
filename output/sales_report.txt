@@ -1,0 +1,64 @@
+Report on Sales Analysis
+========================================
+
+
+SUMMARY
+==============================
+Total Revenue:KES 1,310,812.00
+Clean Transactions:46
+Skipped Transactions:4
+
+REVENUE BY PRODUCT
+==============================
+Safaricom Neon Ray:11998
+USB-C Charger 25W:19487
+Lenovo Tab M10:199992
+Xiaomi Redmi Buds:25592
+Tecno Spark 20:161988
+JBL Go 3 Speaker:49491
+Oraimo FreePods:19593
+Anker Power Bank 20000:38691
+Hisense 43in Smart TV:272993
+Samsung Galaxy A15:56997
+HP 15 Laptop:389994
+Infinix Hot 40:63996
+
+REVENUE BY STORE
+==============================
+Westgate:235979
+Kisumu Mega Plaza:449678
+Nakuru Westside:139988
+Mombasa City Mall:154082
+Nairobi CBD:331085
+
+REVENUE BY PAYMENT METHOD
+==============================
+Cash:304375
+M-Pesa:738568
+Card:267869
+
+TOP THREE PRODUCTS
+==============================
+('HP 15 Laptop', Decimal('389994'))
+('Hisense 43in Smart TV', Decimal('272993'))
+('Lenovo Tab M10', Decimal('199992'))
+
+HIGH VALUE TRANSACTIONS
+==============================
+5
+
+STATISTICS ON TRANSACTION
+==============================
+Mean:28495.91304347826086956521739
+Median:11097
+Minimum:1499
+Maximum:259996
+
+VERIFICATION OF PANDAS
+==============================
+total_revenue:MATCH
+transaction_count:MATCH
+mean:MATCH
+median:MATCH
+minimum:MATCH
+maximum:MATCH
