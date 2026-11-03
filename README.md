@@ -1,4 +1,4 @@
-#Electronics Sales Data Analysis Using Python
+# Electronics Sales Data Analysis Using Python
 ## 1. Project Overview
 This project involves analysing an electronics sales dataset using Python. 
 The goal was to explore sales transactions, understand revenue performance and identify 
